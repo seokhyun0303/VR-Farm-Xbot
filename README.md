@@ -10,7 +10,8 @@ Meta Quest3
 Oculus Interacton SDK  
 
 ## VR Farm Simulator
-[![VR Farm Simulator Demo](./vrfarm.png)](https://youtube.com/shorts/Pu3dNH1f1B8)
+[![VR Farm Simulator Demo](./vrfarm.png)](https://youtube.com/shorts/Pu3dNH1f1B8)  
+Click image to watch the demo video  
 - You can grab and put down farm tools, boxes, and tomato seedlings.
 - If you hit the field in the fence several times with a hoe, it becomes land where tomatoes can be planted.
 - Plant tomatoes and water them and they grow.
